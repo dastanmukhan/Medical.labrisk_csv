@@ -87,28 +87,10 @@ python main.py
 Open the web interface:
 Go to:
 
-cpp
-Копировать код
-http://127.0.0.1:5000
-📊 Input → Output
-Input:
 
-Patient lab results (labs.csv)
 
-Optional additional health parameters
 
-Output:
-
-Recommendations for patient actions
-
-Advice on what to avoid
-
-Summary report displayed in the web interface
-
-🖼 Screenshots / Demo
-
-Example: Analysis results and recommendations interface
 
 👨‍💻 Hackathon Team
-Backend & Data Analysis: Dastanmukhan
-Frontend: Dastanmukhan
+Backend & Data Analysis: Dastan
+Frontend: Nursultan
